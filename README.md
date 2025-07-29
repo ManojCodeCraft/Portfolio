@@ -16,11 +16,11 @@ I’m an aspiring **Software Development Engineer** and **Cloud Engineering enth
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -36,6 +36,7 @@ I’m an aspiring **Software Development Engineer** and **Cloud Engineering enth
 
 | Project | Description |
 |--------|-------------|
+| **Simple E-Commerce API** | Node.js, Express, and MongoDB-based backend with JWT authentication, admin/customer roles, and full cart/order handling |
 | **Serverless Email Marketing App** | AWS Lambda + SES-based tool to send personalized bulk emails without managing backend |
 | **Autonomous Drone Navigation** | Python-based drone depth estimation system using sensors for GPS-denied zones |
 | **Hospital Management System** | Java/JSP full-stack app for appointments, billing, and admin roles |
